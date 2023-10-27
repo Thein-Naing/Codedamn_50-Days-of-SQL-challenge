@@ -14,6 +14,9 @@ BETWEEN Operator: In SQL, the BETWEEN operator is used to filter the result set 
 
 Remember, it's essential to practice and test your queries to ensure accuracy. Good luck! */
 
+/* Challenges: Show first name and last name of patients that weight within the range of 100 to 120 (inclusive) */
+
+Solution:
 SELECT first_name, last_name 
 FROM 'patients'
 WHERE weight <= 120 

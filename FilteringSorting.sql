@@ -1,5 +1,4 @@
-/* 
-Filtering and Sorting Customer Data by City and Contact Name in SQLite
+/*  Day 3.[29-10-2023]: Filtering and Sorting Customer Data by City and Contact Name in SQLite
 Easy
 Show the city, company_name, contact_name of all customers from cities which contains the letter 'L' in the city name, sorted by contact_name.
 

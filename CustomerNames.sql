@@ -1,5 +1,4 @@
-/* 
-Customer names (chinook database)
+/* Day 7.[02-02-2023]:Customer names (chinook database)
 Easy
 
 Welcome to this SQL lab, where you will be tested on your ability to query and extract specific data from the Chinook database. The Chinook database contains various tables related to a digital media store, including tables for artists, albums, tracks, playlists, invoices, and customers.

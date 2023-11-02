@@ -1,4 +1,4 @@
-/* Counting Total Admissions for a Specific Patient in a Hospital Database
+/* Day 6.[01-11-2023]:Counting Total Admissions for a Specific Patient in a Hospital Database
 Easy
 
 Write an SQL query to show the patient id and the total number of admissions for a patient with a patient_id of 579. Your query should return the patient_id and the total count of admissions for that patient with the column name alias total_admissions

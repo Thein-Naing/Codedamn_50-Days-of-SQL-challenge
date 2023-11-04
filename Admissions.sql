@@ -1,4 +1,4 @@
-/* Identifying Same-Day Hospital Admissions and Discharges
+/*  Day 8.[03-11-2023]:Identifying Same-Day Hospital Admissions and Discharges
 Easy
 Show all the columns from admissions where the patient was admitted and discharged on the same day.
 Your task is to write a SQL query to show all the columns from the admissions table where the patient was admitted and discharged on the same day.

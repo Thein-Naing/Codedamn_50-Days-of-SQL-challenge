@@ -1,5 +1,7 @@
-/* Distinct city names (chinook database)
+/*  Day 9.[04-11-2023]: Distinct city names (chinook database)
+
 Easy
+
 Fetch unique customer cities in alphabetical orde
 In this exercise, you'll be working with the chinook database. Your task is to solve a series of challenges that test your SQL skills.
 

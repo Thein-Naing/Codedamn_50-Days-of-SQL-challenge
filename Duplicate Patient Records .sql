@@ -1,4 +1,4 @@
-/* day 14.[09.11.2023]Identifying Duplicate Patient Records by First and Last Names
+/* Day 14.[09-11-2023]: Identifying Duplicate Patient Records by First and Last Names
 Easy
 
 Welcome to this SQL lab where you'll be working with a database named hospital.sqlite. This database contains a table named patients that, as you might guess, holds data related to patients. Your task is to delve into this data and extract valuable insights.
